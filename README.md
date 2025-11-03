@@ -13,6 +13,7 @@ This project digs into *why* that happens. I built a complete A/B test simulatio
 My simulation centered on a realistic scenario: **Version A** has a 20% conversion rate, and **Version B** has a 22% rate. Here's what I found.
 
 **(Here's where you'll put your plot. Just replace the line below with `![Statistical Power vs Sample Size Plot](plot.png)` after you've saved a screenshot of your graph as `plot.png` in your folder.)**
+<img width="855" height="547" alt="image" src="https://github.com/user-attachments/assets/5c9b434a-9342-41bb-a6b1-074c52efe1f6" />
 
 ### ****
 
