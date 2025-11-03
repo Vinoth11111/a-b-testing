@@ -15,7 +15,6 @@ My simulation centered on a realistic scenario: **Version A** has a 20% conversi
 Statistical Power vs Sample Size Plot]
 <img width="855" height="547" alt="image" src="https://github.com/user-attachments/assets/5c9b434a-9342-41bb-a6b1-074c52efe1f6" />
 
-### ****
 
 1.  **Finding 1: Small Tests are Unreliable.** The plot shows that with a small sample (e.g., under 1,500 users), our statistical power is low. This means we have a high chance of *failing to detect the 2% improvement*, even though it's real. A business acting on this would wrongly conclude the new feature isn't worth it.
 
